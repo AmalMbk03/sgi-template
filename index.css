@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+body{
+    font-family: 'Outfit';
+}
+.navbar{
+    background-color: dodgerblue !important;
+    color: white !important;
+    height: 10vh;
+    padding: 2%;
+}
+.navbar-right{
+    color: white !important;
+   justify-content: space-between !important;
+}
+.navbar-nav{
+   
+    width: 30%;
+    justify-content: space-between !important;
+}
+.nav-link{
+    margin-left: 7% !important;
+    flex-wrap: nowrap;
+    display: flex;
+    white-space: nowrap;
+    font-weight: bold;
+    
+}
+.about{
+    color: white !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    width: 30%;
+}
+.fa{
+    margin-right: 5px !important;
+}
+.btn-light{
+    align-items: center !important;
+    border-radius: 6px;
+}
+.am{
+    background-color: rgb(241, 232, 232);
+    height: 85vh;
+    padding: 7%;
+}
+.Paa{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.Bro{
+    font-size: 1.1rem;
+}
+.Sis{
+    background-color: dodgerblue;
+    color: white;
+    padding: 2% 5%;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 20px !important;
+}
+.Frére {
+    background: linear-gradient(to right, dodgerblue, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+
+
